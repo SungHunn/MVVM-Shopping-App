@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541520010601",
+    "project_id": "mvvm-shopping-app",
+    "storage_bucket": "mvvm-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541520010601:android:05664e159f226e9df871f8",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541520010601-rtdnf39c3lmq0nu9t6cm8lvfltfjno0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoppingapp",
+            "certificate_hash": "3aa4c2f1a55879318e9b7d8b80c33ef564b82c2e"
+          }
+        },
+        {
+          "client_id": "541520010601-0b9h092sdh1sp82g51qaphcri3j5g95d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_iJIy5YSnORWtnva30qG1ir6xPc3iLaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541520010601-0b9h092sdh1sp82g51qaphcri3j5g95d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
